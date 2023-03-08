@@ -7,7 +7,7 @@ namespace Csharp_ITFS2_2022_23 // Note: actual namespace depends on the project 
     {
         static void Main(string[] args)
         {
-            Übung_Methoden.Start();
+            Schiffe_versenken.Start();
 
 
         }
